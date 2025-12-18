@@ -1,6 +1,6 @@
 <!-- Banner -->
  
-<h1 align="center">Hi 👋, I'm Mahendra Jangid</h1>
+<h1 align="center">Hi 👋, I'm Dashrath Suthar</h1>
 <h3 align="center">🚀 BCA Student | 🤖 AI/ML/DL Enthusiast | 🌐 Web Developer</h3>
  
 ---
@@ -11,7 +11,7 @@ I am a passionate **BCA student and AI/ML enthusiast** with hands-on experience 
  
 - 🔭 Currently interning at **Capsitech**  
 
-- 🌱 Learning **Deep Learning, Reinforcement Learning & Full-Stack Development**  
+- 🌱 Learning **Machine Learning & Full-Stack Development**  
 
 - 👯 working on **AI, ML and Web Projects**  
 
@@ -19,7 +19,7 @@ I am a passionate **BCA student and AI/ML enthusiast** with hands-on experience 
 
 - 📍 Based in **Jodhpur, India**  
 
-- 📫 Email: **[mahendrakumar24325@gmail.com](mailto:mahendrakumar24325@gmail.com)**  
+- 📫 Email: **[dashrathsuthar2525@gmail.com](mailto:dashrathsuthar2525@gmail.com)**  
 
 - 🌐 Portfolio: [GitHub Projects](https://github.com/Mahendra-jangid-ai)  
 
@@ -45,7 +45,7 @@ I am a passionate **BCA student and AI/ML enthusiast** with hands-on experience 
  
 ### 🔗 Connect with Me
 <p align="center">
-<a href="mailto:mahendrakumar24325@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"&g…
+<a href="mailto:dashrathsuthar2525@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"&g…
 <a href="https://www.linkedin.com/in/mahendra-jangid-2969412a2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/Mahendra-jangid-ai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
