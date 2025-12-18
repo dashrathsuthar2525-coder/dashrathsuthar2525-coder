@@ -23,7 +23,7 @@ I am a passionate **BCA student and AI/ML enthusiast** with hands-on experience 
 
 - 🌐 Portfolio: [GitHub Projects](https://github.com/Mahendra-jangid-ai)  
 
-- 💼 LinkedIn: [Mahendra Jangid](https://www.linkedin.com/in/mahendra-jangid-2969412a2/)
+- 💼 LinkedIn: [Dashrath Suthar](https://www.linkedin.com/in/mahendra-jangid-2969412a2/)
  
 ---
  
