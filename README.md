@@ -27,7 +27,7 @@ I am a passionate **BCA student and AI/ML enthusiast** with hands-on experience 
  
 ---
  
-### 🛠️ Technology Stack
+
 ### 🛠️ Technology Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
