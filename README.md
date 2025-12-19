@@ -21,7 +21,7 @@ I am a passionate **BCA student and AI/ML enthusiast** with hands-on experience 
 
 - 📫 Email: **[dashrathsuthar2525@gmail.com](mailto:dashrathsuthar2525@gmail.com)**  
 
-- 🌐 Portfolio: [GitHub Projects](https://github.com/Mahendra-jangid-ai)  
+- 🌐 Portfolio: [GitHub Projects](https://github.com/dashrathsuthar2525-coder)  
 
 - 💼 LinkedIn: [Dashrath Suthar](https://www.linkedin.com/in/mahendra-jangid-2969412a2/)
  
@@ -47,7 +47,7 @@ I am a passionate **BCA student and AI/ML enthusiast** with hands-on experience 
 <p align="center">
 <a href="mailto:dashrathsuthar2525@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"&g…
 <a href="https://www.linkedin.com/in/mahendra-jangid-2969412a2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/Mahendra-jangid-ai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/dashrathsuthar2525-coder"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
  
