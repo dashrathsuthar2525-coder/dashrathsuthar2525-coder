@@ -1,13 +1,13 @@
 <!-- Banner -->
  
 <h1 align="center">Hi 👋, I'm Dashrath Suthar</h1>
-<h3 align="center">🚀 BCA Student | 🤖 AI/ML/DL Enthusiast | 🌐 Web Developer</h3>
+<h3 align="center">🚀 CS Student | 🤖 AI/ML/DL Enthusiast | 🌐 Web Developer</h3>
  
 ---
  
 ### 👨‍💻 About Me
 
-I am a passionate **BCA student and AI/ML enthusiast** with hands-on experience in **web development and deep learning**. I love building innovative solutions and learning the latest in **AI, Machine Learning, and Full-Stack Development**.  
+I am a passionate **CS student and AI/ML enthusiast** with hands-on experience in **web development and deep learning**. I love building innovative solutions and learning the latest in **AI, Machine Learning, and Full-Stack Development**.  
  
 - 🔭 Currently interning at **Capsitech**  
 
