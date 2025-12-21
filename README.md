@@ -23,7 +23,7 @@ I am a passionate **CS student and AI/ML enthusiast** with hands-on experience i
 
 - 🌐 Portfolio: [GitHub Projects](https://github.com/dashrathsuthar2525-coder)  
 
-- 💼 LinkedIn: [Dashrath Suthar](https://www.linkedin.com/in/mahendra-jangid-2969412a2/)
+- 💼 LinkedIn: [Dashrath Suthar]()
  
 ---
  
@@ -48,7 +48,7 @@ I am a passionate **CS student and AI/ML enthusiast** with hands-on experience i
 ### 🔗 Connect with Me
 <p align="center">
 <a href="mailto:dashrathsuthar2525@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"&g…
-<a href="https://www.linkedin.com/in/mahendra-jangid-2969412a2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/dashrathsuthar2525-coder"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
